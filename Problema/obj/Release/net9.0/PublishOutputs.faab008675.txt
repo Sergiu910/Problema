@@ -1,0 +1,5 @@
+/Users/sergiu/Desktop/Problema
+/Users/sergiu/Desktop/Problema.dll
+/Users/sergiu/Desktop/Problema.deps.json
+/Users/sergiu/Desktop/Problema.runtimeconfig.json
+/Users/sergiu/Desktop/Problema.pdb

@@ -1,0 +1,14 @@
+/Users/sergiu/RiderProjects/Problema/Problema/bin/Release/net9.0/Problema
+/Users/sergiu/RiderProjects/Problema/Problema/bin/Release/net9.0/Problema.deps.json
+/Users/sergiu/RiderProjects/Problema/Problema/bin/Release/net9.0/Problema.runtimeconfig.json
+/Users/sergiu/RiderProjects/Problema/Problema/bin/Release/net9.0/Problema.dll
+/Users/sergiu/RiderProjects/Problema/Problema/bin/Release/net9.0/Problema.pdb
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.AssemblyInfoInputs.cache
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.AssemblyInfo.cs
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.csproj.CoreCompileInputs.cache
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.dll
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/refint/Problema.dll
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.pdb
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/Problema.genruntimeconfig.cache
+/Users/sergiu/RiderProjects/Problema/Problema/obj/Release/net9.0/ref/Problema.dll
